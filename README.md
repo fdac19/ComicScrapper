@@ -1,2 +1,2 @@
 # ComicScrapper
-The scrapper is meant to analyze one character in a select series of comics and create a biography for that said character
+Comic scraping project is used for new comic readers to be able to understand new and cross-series characters in a select series. The application will start being a local host, but is planned to be a web-app...
