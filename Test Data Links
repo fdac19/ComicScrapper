@@ -1,0 +1,31 @@
+Can grab images of specific characters (May need to crop)
+
+https://readcomicsonline.ru/comic/detective-comics-2016/934
+https://readcomicsonline.ru/comic/detective-comics-2016/935
+...
+https://readcomicsonline.ru/comic/detective-comics-2016/1014
+
+This is a fairly big series so we could just go off this series alone to start the model build...
+However this will only get stlye of batman for this specific series. We could use all varations of Batman
+from the new 52 DC series. If we start to splice various data from this all these would at least build an ML model to 
+figure out out all the current looks of Batman....
+
+Batman & Superman
+https://readcomicsonline.ru/comic/batmansuperman-2019/1
+https://readcomicsonline.ru/comic/batmansuperman-2019/2
+https://readcomicsonline.ru/comic/batmansuperman-2019/3
+
+Justice League
+https://readcomicsonline.ru/comic/justice-league-2016/1
+https://readcomicsonline.ru/comic/justice-league-2016/2
+...
+https://readcomicsonline.ru/comic/justice-league-2016/43
+
+Dark Nights
+https://readcomicsonline.ru/comic/dark-nights-metal-2017/1
+https://readcomicsonline.ru/comic/dark-nights-metal-2017/2
+...
+https://readcomicsonline.ru/comic/dark-nights-metal-2017/6
+
+We can't do this for every hero though. We need to discuss we want to do with the time we
+have left
