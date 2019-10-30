@@ -1,0 +1,28 @@
+Hey guys so this is the plan we've gotten up until now.
+This was discussed between Sai and I, and we were hoping 
+you guys would be okay with it!
+
+Sai: 
+
+Is working on textual analysis for interupting the dialogue of characters or
+in between characters. Hoping to get at least character's attitude, and possibly 
+attitude toward a person.
+
+Chase:
+
+Creating the image classifer that will be able to determine fights between characters,
+unqie characters, romanantic actions, dialogue, narration, and possibly more depending on
+what other training data I can gather.
+
+Noah:
+
+Working on the Electron window and majority of front end. This would include setting up
+the bio page with the rough mock up from the GroupMe (or pick whatever you find more
+visually appealing, we have faith in ya).
+
+Casey: 
+
+Casey has put in the most work already lol. However, Casey will be either helping Noah
+with front end (you guys could discuss that. Also you could help me in labelling
+and catergorizing all the training data I'll be using this weekend for the image 
+classifer!
