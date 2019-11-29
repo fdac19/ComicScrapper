@@ -1,0 +1,17 @@
+{
+  "name": "potentialgui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.12"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
